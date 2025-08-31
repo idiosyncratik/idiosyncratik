@@ -83,7 +83,7 @@ an educator who's a digital inclusion fairy by day, and a coding nerd by night.<
 <li>LinkedIn: <a href="https://linkedin.com/in/yasminleonel">linkedin.com/in/yasminleonel</a></li>
 <li>Last.fm: <a href="https://www.last.fm/user/lemotionnel">last.fm/user/lemotionnel</a></li>
 <li>Spotify: <a href="https://open.spotify.com/user/431k9mujukmoyxl6drts71wc0?si=4bc87494f20845ac">spotify.com/ublyudok</a></li>
-<li>Letterboxd: <a href="https://letterboxd.com/ublyudok">letterboxd.com</a></li>
+<li>Letterboxd: <a href="https://letterboxd.com/ublyudok">letterboxd.com/ublyudok</a></li>
 <li>Instagram: <a href="https://instagram.com/dolkoyne">instagram.com/dolkoyne</a></li>
 </ul>
 </div>
