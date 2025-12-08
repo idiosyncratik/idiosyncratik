@@ -100,7 +100,7 @@ investigation, logic and a brain that never stops analyzing anything.<br>
 <li>Last.fm: <a href="https://www.last.fm/user/lemotionnel">last.fm/user/lemotionnel</a></li>
 <li>Spotify: <a href="https://open.spotify.com/user/431k9mujukmoyxl6drts71wc0?si=4bc87494f20845ac">spotify.com/ublyudok</a></li>
 <li>Letterboxd: <a href="https://letterboxd.com/ublyudok">letterboxd.com/ublyudok</a></li>
-<li>Instagram: <a href="https://instagram.com/dolkoyne">instagram.com/mortepsiquica</a></li>
+<li>Instagram: <a href="https://instagram.com/mortepsiquica">instagram.com/mortepsiquica</a></li>
 </ul>
 </div>
 
